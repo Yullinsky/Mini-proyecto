@@ -1,0 +1,84 @@
+h1 {
+    text-align: center;
+    color: #332f2b;
+    font-family: Montserrat;
+    font-size:72px;
+    font-weight: bolder;
+    margin: 0px;
+    text-shadow:3px 4px 2px #332f2b69;
+    width: 100%;
+    height: 20%;
+    /*background: linear-gradient(#0003, #FFF0);*/
+    padding-top: 10px;
+
+}
+
+
+p {
+    color: #ffffff;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: small;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+body {background-color: #64594b;}
+body {
+    margin: 0 auto;
+
+}
+
+.formulario {
+    box-sizing: border-box;
+    background: #3a664b;
+    border-radius: 6px;
+    box-shadow: 4px 5px rgba(0, 0, 0, 0.199);
+
+    width: 80%;
+    margin-left: 10%;
+    
+}
+
+.formulario_input {
+    box-sizing: border-box;
+    font-family: Montserrat;
+    padding:4px;
+    width: 90%;
+    margin-top: 8px;
+
+    margin-left: 5%;
+
+
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: #273a2e;
+    border-style: solid;
+    
+
+}
+
+.formulario_submit {
+    width: 20%;
+    margin-left: 40%;
+    margin-bottom: 8px;
+    border-radius: 13px;
+    border-width: 3px;
+    border-color: #273a2e;
+    border-style: solid;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #2f4e3b;
+    color: white;
+    font-size: large;
+}
+
+img{
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 40px;
+    box-shadow:0px 0px 50px 10px #0005;
+    
+
+
+}
